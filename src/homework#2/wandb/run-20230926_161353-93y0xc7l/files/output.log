@@ -1,0 +1,23 @@
+Epoch [1/10000] - Loss: 0.9844
+Validation Loss: 0.6188
+Validation Accuracy: 0.67%
+Epoch [2/10000] - Loss: 0.7331
+Validation Loss: 0.6058
+Validation Accuracy: 0.70%
+Epoch [3/10000] - Loss: 0.6940
+Validation Loss: 0.6670
+Validation Accuracy: 0.63%
+Epoch [4/10000] - Loss: 0.6293
+Validation Loss: 0.6590
+Validation Accuracy: 0.72%
+Epoch [5/10000] - Loss: 0.6195
+Validation Loss: 0.6955
+Validation Accuracy: 0.67%
+Epoch [6/10000] - Loss: 0.5938
+Validation Loss: 0.9603
+Validation Accuracy: 0.70%
+Epoch [7/10000] - Loss: 0.5855
+Validation Loss: 0.7831
+Validation Accuracy: 0.71%
+Early stopping at epoch 7
+[TEST]

@@ -1,0 +1,490 @@
+Epoch [1/10000] - Loss: 1.0302
+Validation Loss: 0.6104
+Validation Accuracy: 0.71%
+Epoch [2/10000] - Loss: 0.7575
+Validation Loss: 0.6350
+Validation Accuracy: 0.70%
+Epoch [3/10000] - Loss: 0.6747
+Validation Loss: 0.7000
+Validation Accuracy: 0.66%
+Epoch [4/10000] - Loss: 0.7251
+Validation Loss: 0.7499
+Validation Accuracy: 0.71%
+Epoch [5/10000] - Loss: 0.6523
+Validation Loss: 0.5848
+Validation Accuracy: 0.71%
+Epoch [6/10000] - Loss: 0.6351
+Validation Loss: 0.7380
+Validation Accuracy: 0.71%
+Epoch [7/10000] - Loss: 0.6906
+Validation Loss: 0.5767
+Validation Accuracy: 0.71%
+Epoch [8/10000] - Loss: 0.6168
+Validation Loss: 0.5840
+Validation Accuracy: 0.71%
+Epoch [9/10000] - Loss: 0.6015
+Validation Loss: 0.5599
+Validation Accuracy: 0.69%
+Epoch [10/10000] - Loss: 0.6135
+Validation Loss: 0.5702
+Validation Accuracy: 0.74%
+Epoch [11/10000] - Loss: 0.5605
+Validation Loss: 0.6381
+Validation Accuracy: 0.68%
+Epoch [12/10000] - Loss: 0.5512
+Validation Loss: 0.6060
+Validation Accuracy: 0.73%
+Epoch [13/10000] - Loss: 0.5045
+Validation Loss: 0.5404
+Validation Accuracy: 0.72%
+Epoch [14/10000] - Loss: 0.5540
+Validation Loss: 0.5664
+Validation Accuracy: 0.75%
+Epoch [15/10000] - Loss: 0.5073
+Validation Loss: 0.5352
+Validation Accuracy: 0.76%
+Epoch [16/10000] - Loss: 0.5029
+Validation Loss: 0.5632
+Validation Accuracy: 0.75%
+Epoch [17/10000] - Loss: 0.5163
+Validation Loss: 0.5629
+Validation Accuracy: 0.75%
+Epoch [18/10000] - Loss: 0.4719
+Validation Loss: 0.5248
+Validation Accuracy: 0.76%
+Epoch [19/10000] - Loss: 0.5370
+Validation Loss: 0.5568
+Validation Accuracy: 0.71%
+Epoch [20/10000] - Loss: 0.4932
+Validation Loss: 0.6465
+Validation Accuracy: 0.75%
+Epoch [21/10000] - Loss: 0.4882
+Validation Loss: 0.5958
+Validation Accuracy: 0.78%
+Epoch [22/10000] - Loss: 0.5032
+Validation Loss: 0.5523
+Validation Accuracy: 0.76%
+Epoch [23/10000] - Loss: 0.4643
+Validation Loss: 0.6086
+Validation Accuracy: 0.77%
+Early stopping at epoch 23
+[TEST]
+PassengerId: 892, Prediction: 0
+PassengerId: 893, Prediction: 1
+PassengerId: 894, Prediction: 0
+PassengerId: 895, Prediction: 0
+PassengerId: 896, Prediction: 1
+PassengerId: 897, Prediction: 0
+PassengerId: 898, Prediction: 1
+PassengerId: 899, Prediction: 0
+PassengerId: 900, Prediction: 1
+PassengerId: 901, Prediction: 0
+PassengerId: 902, Prediction: 0
+PassengerId: 903, Prediction: 0
+PassengerId: 904, Prediction: 1
+PassengerId: 905, Prediction: 0
+PassengerId: 906, Prediction: 1
+PassengerId: 907, Prediction: 1
+PassengerId: 908, Prediction: 0
+PassengerId: 909, Prediction: 0
+PassengerId: 910, Prediction: 1
+PassengerId: 911, Prediction: 1
+PassengerId: 912, Prediction: 0
+PassengerId: 913, Prediction: 0
+PassengerId: 914, Prediction: 1
+PassengerId: 915, Prediction: 1
+PassengerId: 916, Prediction: 1
+PassengerId: 917, Prediction: 0
+PassengerId: 918, Prediction: 1
+PassengerId: 919, Prediction: 0
+PassengerId: 920, Prediction: 0
+PassengerId: 921, Prediction: 0
+PassengerId: 922, Prediction: 0
+PassengerId: 923, Prediction: 0
+PassengerId: 924, Prediction: 1
+PassengerId: 925, Prediction: 1
+PassengerId: 926, Prediction: 0
+PassengerId: 927, Prediction: 0
+PassengerId: 928, Prediction: 1
+PassengerId: 929, Prediction: 1
+PassengerId: 930, Prediction: 0
+PassengerId: 931, Prediction: 1
+PassengerId: 932, Prediction: 0
+PassengerId: 933, Prediction: 1
+PassengerId: 934, Prediction: 0
+PassengerId: 935, Prediction: 1
+PassengerId: 936, Prediction: 1
+PassengerId: 937, Prediction: 0
+PassengerId: 938, Prediction: 0
+PassengerId: 939, Prediction: 0
+PassengerId: 940, Prediction: 1
+PassengerId: 941, Prediction: 1
+PassengerId: 942, Prediction: 1
+PassengerId: 943, Prediction: 0
+PassengerId: 944, Prediction: 1
+PassengerId: 945, Prediction: 0
+PassengerId: 946, Prediction: 0
+PassengerId: 947, Prediction: 0
+PassengerId: 948, Prediction: 0
+PassengerId: 949, Prediction: 0
+PassengerId: 950, Prediction: 0
+PassengerId: 951, Prediction: 1
+PassengerId: 952, Prediction: 0
+PassengerId: 953, Prediction: 0
+PassengerId: 954, Prediction: 0
+PassengerId: 955, Prediction: 1
+PassengerId: 956, Prediction: 1
+PassengerId: 957, Prediction: 1
+PassengerId: 958, Prediction: 1
+PassengerId: 959, Prediction: 0
+PassengerId: 960, Prediction: 1
+PassengerId: 961, Prediction: 1
+PassengerId: 962, Prediction: 1
+PassengerId: 963, Prediction: 0
+PassengerId: 964, Prediction: 1
+PassengerId: 965, Prediction: 1
+PassengerId: 966, Prediction: 1
+PassengerId: 967, Prediction: 1
+PassengerId: 968, Prediction: 0
+PassengerId: 969, Prediction: 1
+PassengerId: 970, Prediction: 0
+PassengerId: 971, Prediction: 1
+PassengerId: 972, Prediction: 1
+PassengerId: 973, Prediction: 1
+PassengerId: 974, Prediction: 0
+PassengerId: 975, Prediction: 0
+PassengerId: 976, Prediction: 0
+PassengerId: 977, Prediction: 0
+PassengerId: 978, Prediction: 1
+PassengerId: 979, Prediction: 1
+PassengerId: 980, Prediction: 1
+PassengerId: 981, Prediction: 1
+PassengerId: 982, Prediction: 1
+PassengerId: 983, Prediction: 0
+PassengerId: 984, Prediction: 1
+PassengerId: 985, Prediction: 0
+PassengerId: 986, Prediction: 1
+PassengerId: 987, Prediction: 0
+PassengerId: 988, Prediction: 1
+PassengerId: 989, Prediction: 0
+PassengerId: 990, Prediction: 1
+PassengerId: 991, Prediction: 0
+PassengerId: 992, Prediction: 1
+PassengerId: 993, Prediction: 0
+PassengerId: 994, Prediction: 0
+PassengerId: 995, Prediction: 0
+PassengerId: 996, Prediction: 1
+PassengerId: 997, Prediction: 0
+PassengerId: 998, Prediction: 0
+PassengerId: 999, Prediction: 0
+PassengerId: 1000, Prediction: 0
+PassengerId: 1001, Prediction: 0
+PassengerId: 1002, Prediction: 0
+PassengerId: 1003, Prediction: 1
+PassengerId: 1004, Prediction: 1
+PassengerId: 1005, Prediction: 1
+PassengerId: 1006, Prediction: 1
+PassengerId: 1007, Prediction: 0
+PassengerId: 1008, Prediction: 0
+PassengerId: 1009, Prediction: 1
+PassengerId: 1010, Prediction: 1
+PassengerId: 1011, Prediction: 1
+PassengerId: 1012, Prediction: 1
+PassengerId: 1013, Prediction: 0
+PassengerId: 1014, Prediction: 1
+PassengerId: 1015, Prediction: 0
+PassengerId: 1016, Prediction: 0
+PassengerId: 1017, Prediction: 1
+PassengerId: 1018, Prediction: 0
+PassengerId: 1019, Prediction: 1
+PassengerId: 1020, Prediction: 0
+PassengerId: 1021, Prediction: 0
+PassengerId: 1022, Prediction: 0
+PassengerId: 1023, Prediction: 0
+PassengerId: 1024, Prediction: 1
+PassengerId: 1025, Prediction: 0
+PassengerId: 1026, Prediction: 0
+PassengerId: 1027, Prediction: 0
+PassengerId: 1028, Prediction: 0
+PassengerId: 1029, Prediction: 0
+PassengerId: 1030, Prediction: 1
+PassengerId: 1031, Prediction: 0
+PassengerId: 1032, Prediction: 0
+PassengerId: 1033, Prediction: 1
+PassengerId: 1034, Prediction: 0
+PassengerId: 1035, Prediction: 0
+PassengerId: 1036, Prediction: 0
+PassengerId: 1037, Prediction: 0
+PassengerId: 1038, Prediction: 0
+PassengerId: 1039, Prediction: 0
+PassengerId: 1040, Prediction: 1
+PassengerId: 1041, Prediction: 0
+PassengerId: 1042, Prediction: 1
+PassengerId: 1043, Prediction: 0
+PassengerId: 1044, Prediction: 0
+PassengerId: 1045, Prediction: 1
+PassengerId: 1046, Prediction: 0
+PassengerId: 1047, Prediction: 0
+PassengerId: 1048, Prediction: 1
+PassengerId: 1049, Prediction: 1
+PassengerId: 1050, Prediction: 0
+PassengerId: 1051, Prediction: 1
+PassengerId: 1052, Prediction: 1
+PassengerId: 1053, Prediction: 1
+PassengerId: 1054, Prediction: 1
+PassengerId: 1055, Prediction: 0
+PassengerId: 1056, Prediction: 0
+PassengerId: 1057, Prediction: 1
+PassengerId: 1058, Prediction: 0
+PassengerId: 1059, Prediction: 0
+PassengerId: 1060, Prediction: 1
+PassengerId: 1061, Prediction: 1
+PassengerId: 1062, Prediction: 0
+PassengerId: 1063, Prediction: 0
+PassengerId: 1064, Prediction: 0
+PassengerId: 1065, Prediction: 0
+PassengerId: 1066, Prediction: 0
+PassengerId: 1067, Prediction: 1
+PassengerId: 1068, Prediction: 1
+PassengerId: 1069, Prediction: 0
+PassengerId: 1070, Prediction: 1
+PassengerId: 1071, Prediction: 1
+PassengerId: 1072, Prediction: 0
+PassengerId: 1073, Prediction: 1
+PassengerId: 1074, Prediction: 1
+PassengerId: 1075, Prediction: 0
+PassengerId: 1076, Prediction: 1
+PassengerId: 1077, Prediction: 0
+PassengerId: 1078, Prediction: 1
+PassengerId: 1079, Prediction: 0
+PassengerId: 1080, Prediction: 0
+PassengerId: 1081, Prediction: 0
+PassengerId: 1082, Prediction: 0
+PassengerId: 1083, Prediction: 1
+PassengerId: 1084, Prediction: 0
+PassengerId: 1085, Prediction: 0
+PassengerId: 1086, Prediction: 1
+PassengerId: 1087, Prediction: 0
+PassengerId: 1088, Prediction: 1
+PassengerId: 1089, Prediction: 1
+PassengerId: 1090, Prediction: 0
+PassengerId: 1091, Prediction: 1
+PassengerId: 1092, Prediction: 1
+PassengerId: 1093, Prediction: 1
+PassengerId: 1094, Prediction: 1
+PassengerId: 1095, Prediction: 1
+PassengerId: 1096, Prediction: 0
+PassengerId: 1097, Prediction: 1
+PassengerId: 1098, Prediction: 1
+PassengerId: 1099, Prediction: 0
+PassengerId: 1100, Prediction: 1
+PassengerId: 1101, Prediction: 0
+PassengerId: 1102, Prediction: 0
+PassengerId: 1103, Prediction: 0
+PassengerId: 1104, Prediction: 0
+PassengerId: 1105, Prediction: 1
+PassengerId: 1106, Prediction: 1
+PassengerId: 1107, Prediction: 0
+PassengerId: 1108, Prediction: 1
+PassengerId: 1109, Prediction: 1
+PassengerId: 1110, Prediction: 1
+PassengerId: 1111, Prediction: 0
+PassengerId: 1112, Prediction: 1
+PassengerId: 1113, Prediction: 0
+PassengerId: 1114, Prediction: 1
+PassengerId: 1115, Prediction: 0
+PassengerId: 1116, Prediction: 1
+PassengerId: 1117, Prediction: 1
+PassengerId: 1118, Prediction: 0
+PassengerId: 1119, Prediction: 1
+PassengerId: 1120, Prediction: 0
+PassengerId: 1121, Prediction: 0
+PassengerId: 1122, Prediction: 0
+PassengerId: 1123, Prediction: 1
+PassengerId: 1124, Prediction: 0
+PassengerId: 1125, Prediction: 0
+PassengerId: 1126, Prediction: 1
+PassengerId: 1127, Prediction: 0
+PassengerId: 1128, Prediction: 1
+PassengerId: 1129, Prediction: 0
+PassengerId: 1130, Prediction: 1
+PassengerId: 1131, Prediction: 1
+PassengerId: 1132, Prediction: 0
+PassengerId: 1133, Prediction: 1
+PassengerId: 1134, Prediction: 1
+PassengerId: 1135, Prediction: 0
+PassengerId: 1136, Prediction: 1
+PassengerId: 1137, Prediction: 0
+PassengerId: 1138, Prediction: 1
+PassengerId: 1139, Prediction: 0
+PassengerId: 1140, Prediction: 1
+PassengerId: 1141, Prediction: 1
+PassengerId: 1142, Prediction: 1
+PassengerId: 1143, Prediction: 0
+PassengerId: 1144, Prediction: 1
+PassengerId: 1145, Prediction: 0
+PassengerId: 1146, Prediction: 0
+PassengerId: 1147, Prediction: 0
+PassengerId: 1148, Prediction: 0
+PassengerId: 1149, Prediction: 0
+PassengerId: 1150, Prediction: 1
+PassengerId: 1151, Prediction: 0
+PassengerId: 1152, Prediction: 0
+PassengerId: 1153, Prediction: 0
+PassengerId: 1154, Prediction: 1
+PassengerId: 1155, Prediction: 1
+PassengerId: 1156, Prediction: 0
+PassengerId: 1157, Prediction: 0
+PassengerId: 1158, Prediction: 0
+PassengerId: 1159, Prediction: 0
+PassengerId: 1160, Prediction: 1
+PassengerId: 1161, Prediction: 0
+PassengerId: 1162, Prediction: 1
+PassengerId: 1163, Prediction: 0
+PassengerId: 1164, Prediction: 1
+PassengerId: 1165, Prediction: 1
+PassengerId: 1166, Prediction: 0
+PassengerId: 1167, Prediction: 1
+PassengerId: 1168, Prediction: 0
+PassengerId: 1169, Prediction: 0
+PassengerId: 1170, Prediction: 0
+PassengerId: 1171, Prediction: 0
+PassengerId: 1172, Prediction: 1
+PassengerId: 1173, Prediction: 1
+PassengerId: 1174, Prediction: 1
+PassengerId: 1175, Prediction: 1
+PassengerId: 1176, Prediction: 1
+PassengerId: 1177, Prediction: 0
+PassengerId: 1178, Prediction: 0
+PassengerId: 1179, Prediction: 1
+PassengerId: 1180, Prediction: 0
+PassengerId: 1181, Prediction: 0
+PassengerId: 1182, Prediction: 1
+PassengerId: 1183, Prediction: 1
+PassengerId: 1184, Prediction: 0
+PassengerId: 1185, Prediction: 1
+PassengerId: 1186, Prediction: 0
+PassengerId: 1187, Prediction: 0
+PassengerId: 1188, Prediction: 1
+PassengerId: 1189, Prediction: 0
+PassengerId: 1190, Prediction: 0
+PassengerId: 1191, Prediction: 0
+PassengerId: 1192, Prediction: 0
+PassengerId: 1193, Prediction: 0
+PassengerId: 1194, Prediction: 0
+PassengerId: 1195, Prediction: 0
+PassengerId: 1196, Prediction: 1
+PassengerId: 1197, Prediction: 1
+PassengerId: 1198, Prediction: 1
+PassengerId: 1199, Prediction: 1
+PassengerId: 1200, Prediction: 1
+PassengerId: 1201, Prediction: 1
+PassengerId: 1202, Prediction: 0
+PassengerId: 1203, Prediction: 0
+PassengerId: 1204, Prediction: 0
+PassengerId: 1205, Prediction: 1
+PassengerId: 1206, Prediction: 1
+PassengerId: 1207, Prediction: 1
+PassengerId: 1208, Prediction: 1
+PassengerId: 1209, Prediction: 0
+PassengerId: 1210, Prediction: 0
+PassengerId: 1211, Prediction: 0
+PassengerId: 1212, Prediction: 0
+PassengerId: 1213, Prediction: 0
+PassengerId: 1214, Prediction: 0
+PassengerId: 1215, Prediction: 1
+PassengerId: 1216, Prediction: 1
+PassengerId: 1217, Prediction: 0
+PassengerId: 1218, Prediction: 1
+PassengerId: 1219, Prediction: 1
+PassengerId: 1220, Prediction: 0
+PassengerId: 1221, Prediction: 0
+PassengerId: 1222, Prediction: 1
+PassengerId: 1223, Prediction: 0
+PassengerId: 1224, Prediction: 0
+PassengerId: 1225, Prediction: 1
+PassengerId: 1226, Prediction: 0
+PassengerId: 1227, Prediction: 1
+PassengerId: 1228, Prediction: 0
+PassengerId: 1229, Prediction: 0
+PassengerId: 1230, Prediction: 0
+PassengerId: 1231, Prediction: 1
+PassengerId: 1232, Prediction: 0
+PassengerId: 1233, Prediction: 0
+PassengerId: 1234, Prediction: 0
+PassengerId: 1235, Prediction: 1
+PassengerId: 1236, Prediction: 1
+PassengerId: 1237, Prediction: 1
+PassengerId: 1238, Prediction: 0
+PassengerId: 1239, Prediction: 1
+PassengerId: 1240, Prediction: 0
+PassengerId: 1241, Prediction: 1
+PassengerId: 1242, Prediction: 1
+PassengerId: 1243, Prediction: 0
+PassengerId: 1244, Prediction: 0
+PassengerId: 1245, Prediction: 0
+PassengerId: 1246, Prediction: 1
+PassengerId: 1247, Prediction: 0
+PassengerId: 1248, Prediction: 1
+PassengerId: 1249, Prediction: 0
+PassengerId: 1250, Prediction: 0
+PassengerId: 1251, Prediction: 1
+PassengerId: 1252, Prediction: 0
+PassengerId: 1253, Prediction: 1
+PassengerId: 1254, Prediction: 1
+PassengerId: 1255, Prediction: 0
+PassengerId: 1256, Prediction: 1
+PassengerId: 1257, Prediction: 0
+PassengerId: 1258, Prediction: 0
+PassengerId: 1259, Prediction: 1
+PassengerId: 1260, Prediction: 1
+PassengerId: 1261, Prediction: 0
+PassengerId: 1262, Prediction: 0
+PassengerId: 1263, Prediction: 1
+PassengerId: 1264, Prediction: 0
+PassengerId: 1265, Prediction: 0
+PassengerId: 1266, Prediction: 1
+PassengerId: 1267, Prediction: 1
+PassengerId: 1268, Prediction: 1
+PassengerId: 1269, Prediction: 0
+PassengerId: 1270, Prediction: 0
+PassengerId: 1271, Prediction: 0
+PassengerId: 1272, Prediction: 0
+PassengerId: 1273, Prediction: 0
+PassengerId: 1274, Prediction: 1
+PassengerId: 1275, Prediction: 1
+PassengerId: 1276, Prediction: 0
+PassengerId: 1277, Prediction: 1
+PassengerId: 1278, Prediction: 0
+PassengerId: 1279, Prediction: 0
+PassengerId: 1280, Prediction: 0
+PassengerId: 1281, Prediction: 0
+PassengerId: 1282, Prediction: 1
+PassengerId: 1283, Prediction: 1
+PassengerId: 1284, Prediction: 0
+PassengerId: 1285, Prediction: 0
+PassengerId: 1286, Prediction: 0
+PassengerId: 1287, Prediction: 1
+PassengerId: 1288, Prediction: 0
+PassengerId: 1289, Prediction: 1
+PassengerId: 1290, Prediction: 0
+PassengerId: 1291, Prediction: 0
+PassengerId: 1292, Prediction: 1
+PassengerId: 1293, Prediction: 0
+PassengerId: 1294, Prediction: 1
+PassengerId: 1295, Prediction: 1
+PassengerId: 1296, Prediction: 0
+PassengerId: 1297, Prediction: 0
+PassengerId: 1298, Prediction: 0
+PassengerId: 1299, Prediction: 0
+PassengerId: 1300, Prediction: 1
+PassengerId: 1301, Prediction: 1
+PassengerId: 1302, Prediction: 1
+PassengerId: 1303, Prediction: 1
+PassengerId: 1304, Prediction: 1
+PassengerId: 1305, Prediction: 0
+PassengerId: 1306, Prediction: 1
+PassengerId: 1307, Prediction: 0
+PassengerId: 1308, Prediction: 0
+PassengerId: 1309, Prediction: 1
+==================================================
