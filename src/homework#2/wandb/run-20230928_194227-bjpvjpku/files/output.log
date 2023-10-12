@@ -1,0 +1,309 @@
+Testing with Activation Function: ReLU
+Epoch [1/100] - Loss: 0.6436
+Validation Loss: 0.6453
+Validation Accuracy: 0.66%
+Epoch [2/100] - Loss: 0.6024
+Validation Loss: 0.6535
+Validation Accuracy: 0.68%
+Epoch [3/100] - Loss: 0.5908
+Validation Loss: 0.6189
+Validation Accuracy: 0.67%
+Epoch [4/100] - Loss: 0.5914
+Validation Loss: 0.6090
+Validation Accuracy: 0.70%
+Epoch [5/100] - Loss: 0.5770
+Validation Loss: 0.6207
+Validation Accuracy: 0.70%
+Epoch [6/100] - Loss: 0.5703
+Validation Loss: 0.5950
+Validation Accuracy: 0.66%
+Epoch [7/100] - Loss: 0.5590
+Validation Loss: 0.5711
+Validation Accuracy: 0.71%
+Epoch [8/100] - Loss: 0.5434
+Validation Loss: 0.5609
+Validation Accuracy: 0.70%
+Epoch [9/100] - Loss: 0.5747
+Validation Loss: 0.5435
+Validation Accuracy: 0.71%
+Epoch [10/100] - Loss: 0.5469
+Validation Loss: 0.5335
+Validation Accuracy: 0.70%
+Epoch [11/100] - Loss: 0.5325
+Validation Loss: 0.5378
+Validation Accuracy: 0.71%
+Epoch [12/100] - Loss: 0.5204
+Validation Loss: 0.5518
+Validation Accuracy: 0.69%
+Epoch [13/100] - Loss: 0.5190
+Validation Loss: 0.5091
+Validation Accuracy: 0.71%
+Epoch [14/100] - Loss: 0.5362
+Validation Loss: 0.5176
+Validation Accuracy: 0.79%
+Epoch [15/100] - Loss: 0.5233
+Validation Loss: 0.4957
+Validation Accuracy: 0.76%
+Epoch [16/100] - Loss: 0.5018
+Validation Loss: 0.5120
+Validation Accuracy: 0.74%
+Epoch [17/100] - Loss: 0.5022
+Validation Loss: 0.5015
+Validation Accuracy: 0.76%
+Epoch [18/100] - Loss: 0.4736
+Validation Loss: 0.4863
+Validation Accuracy: 0.75%
+Epoch [19/100] - Loss: 0.4792
+Validation Loss: 0.6791
+Validation Accuracy: 0.67%
+Epoch [20/100] - Loss: 0.4878
+Validation Loss: 0.4997
+Validation Accuracy: 0.78%
+Epoch [21/100] - Loss: 0.4661
+Validation Loss: 0.4537
+Validation Accuracy: 0.80%
+Epoch [22/100] - Loss: 0.4540
+Validation Loss: 0.4604
+Validation Accuracy: 0.81%
+Epoch [23/100] - Loss: 0.4662
+Validation Loss: 0.4413
+Validation Accuracy: 0.81%
+Epoch [24/100] - Loss: 0.4567
+Validation Loss: 0.4419
+Validation Accuracy: 0.82%
+Epoch [25/100] - Loss: 0.4473
+Validation Loss: 0.4453
+Validation Accuracy: 0.81%
+Epoch [26/100] - Loss: 0.4426
+Validation Loss: 0.4379
+Validation Accuracy: 0.83%
+Epoch [27/100] - Loss: 0.4334
+Validation Loss: 0.4808
+Validation Accuracy: 0.80%
+Epoch [28/100] - Loss: 0.4376
+Validation Loss: 0.4369
+Validation Accuracy: 0.81%
+Epoch [29/100] - Loss: 0.4614
+Validation Loss: 0.4402
+Validation Accuracy: 0.83%
+Epoch [30/100] - Loss: 0.4277
+Validation Loss: 0.4462
+Validation Accuracy: 0.79%
+Epoch [31/100] - Loss: 0.4346
+Validation Loss: 0.4252
+Validation Accuracy: 0.83%
+Epoch [32/100] - Loss: 0.4334
+Validation Loss: 0.4291
+Validation Accuracy: 0.81%
+Epoch [33/100] - Loss: 0.4201
+Validation Loss: 0.4302
+Validation Accuracy: 0.80%
+Epoch [34/100] - Loss: 0.4349
+Validation Loss: 0.4489
+Validation Accuracy: 0.82%
+Epoch [35/100] - Loss: 0.4371
+Validation Loss: 0.4131
+Validation Accuracy: 0.85%
+Epoch [36/100] - Loss: 0.4116
+Validation Loss: 0.4430
+Validation Accuracy: 0.81%
+Epoch [37/100] - Loss: 0.4272
+Validation Loss: 0.4338
+Validation Accuracy: 0.83%
+Epoch [38/100] - Loss: 0.4163
+Validation Loss: 0.4503
+Validation Accuracy: 0.82%
+Epoch [39/100] - Loss: 0.4400
+Validation Loss: 0.4202
+Validation Accuracy: 0.82%
+Epoch [40/100] - Loss: 0.4382
+Validation Loss: 0.4432
+Validation Accuracy: 0.81%
+Epoch [41/100] - Loss: 0.4194
+Validation Loss: 0.4363
+Validation Accuracy: 0.81%
+Epoch [42/100] - Loss: 0.4397
+Validation Loss: 0.4816
+Validation Accuracy: 0.78%
+Epoch [43/100] - Loss: 0.4380
+Validation Loss: 0.4530
+Validation Accuracy: 0.81%
+Epoch [44/100] - Loss: 0.4291
+Validation Loss: 0.4607
+Validation Accuracy: 0.80%
+Epoch [45/100] - Loss: 0.4227
+Validation Loss: 0.4563
+Validation Accuracy: 0.81%
+Epoch [46/100] - Loss: 0.4225
+Validation Loss: 0.4797
+Validation Accuracy: 0.79%
+Epoch [47/100] - Loss: 0.4454
+Validation Loss: 0.4206
+Validation Accuracy: 0.83%
+Epoch [48/100] - Loss: 0.4126
+Validation Loss: 0.4569
+Validation Accuracy: 0.80%
+Epoch [49/100] - Loss: 0.4330
+Validation Loss: 0.4799
+Validation Accuracy: 0.79%
+Epoch [50/100] - Loss: 0.4401
+Validation Loss: 0.4659
+Validation Accuracy: 0.81%
+Epoch [51/100] - Loss: 0.4243
+Validation Loss: 0.4163
+Validation Accuracy: 0.82%
+Epoch [52/100] - Loss: 0.4355
+Validation Loss: 0.4446
+Validation Accuracy: 0.80%
+Epoch [53/100] - Loss: 0.4349
+Validation Loss: 0.4217
+Validation Accuracy: 0.83%
+Epoch [54/100] - Loss: 0.4096
+Validation Loss: 0.4650
+Validation Accuracy: 0.80%
+Epoch [55/100] - Loss: 0.4480
+Validation Loss: 0.4584
+Validation Accuracy: 0.81%
+Epoch [56/100] - Loss: 0.4078
+Validation Loss: 0.4328
+Validation Accuracy: 0.81%
+Epoch [57/100] - Loss: 0.3983
+Validation Loss: 0.4705
+Validation Accuracy: 0.81%
+Epoch [58/100] - Loss: 0.4241
+Validation Loss: 0.4523
+Validation Accuracy: 0.81%
+Epoch [59/100] - Loss: 0.4123
+Validation Loss: 0.4273
+Validation Accuracy: 0.84%
+Epoch [60/100] - Loss: 0.4082
+Validation Loss: 0.4218
+Validation Accuracy: 0.84%
+Epoch [61/100] - Loss: 0.4103
+Validation Loss: 0.4648
+Validation Accuracy: 0.81%
+Epoch [62/100] - Loss: 0.4198
+Validation Loss: 0.4371
+Validation Accuracy: 0.81%
+Epoch [63/100] - Loss: 0.3953
+Validation Loss: 0.4406
+Validation Accuracy: 0.84%
+Epoch [64/100] - Loss: 0.3989
+Validation Loss: 0.4462
+Validation Accuracy: 0.81%
+Epoch [65/100] - Loss: 0.4095
+Validation Loss: 0.4349
+Validation Accuracy: 0.83%
+Epoch [66/100] - Loss: 0.4049
+Validation Loss: 0.4580
+Validation Accuracy: 0.84%
+Epoch [67/100] - Loss: 0.3918
+Validation Loss: 0.4581
+Validation Accuracy: 0.80%
+Epoch [68/100] - Loss: 0.4113
+Validation Loss: 0.4467
+Validation Accuracy: 0.81%
+Epoch [69/100] - Loss: 0.4177
+Validation Loss: 0.4701
+Validation Accuracy: 0.81%
+Epoch [70/100] - Loss: 0.4338
+Validation Loss: 0.4604
+Validation Accuracy: 0.81%
+Epoch [71/100] - Loss: 0.4059
+Validation Loss: 0.4136
+Validation Accuracy: 0.84%
+Epoch [72/100] - Loss: 0.4073
+Validation Loss: 0.4167
+Validation Accuracy: 0.82%
+Epoch [73/100] - Loss: 0.4121
+Validation Loss: 0.4364
+Validation Accuracy: 0.83%
+Epoch [74/100] - Loss: 0.3917
+Validation Loss: 0.4295
+Validation Accuracy: 0.84%
+Epoch [75/100] - Loss: 0.4004
+Validation Loss: 0.4334
+Validation Accuracy: 0.84%
+Epoch [76/100] - Loss: 0.4003
+Validation Loss: 0.4293
+Validation Accuracy: 0.82%
+Epoch [77/100] - Loss: 0.4063
+Validation Loss: 0.4827
+Validation Accuracy: 0.80%
+Epoch [78/100] - Loss: 0.3953
+Validation Loss: 0.4378
+Validation Accuracy: 0.85%
+Epoch [79/100] - Loss: 0.4041
+Validation Loss: 0.4313
+Validation Accuracy: 0.81%
+Epoch [80/100] - Loss: 0.3986
+Validation Loss: 0.4231
+Validation Accuracy: 0.84%
+Epoch [81/100] - Loss: 0.4198
+Validation Loss: 0.4508
+Validation Accuracy: 0.84%
+Epoch [82/100] - Loss: 0.4066
+Validation Loss: 0.4176
+Validation Accuracy: 0.83%
+Epoch [83/100] - Loss: 0.3974
+Validation Loss: 0.4328
+Validation Accuracy: 0.80%
+Epoch [84/100] - Loss: 0.4332
+Validation Loss: 0.4474
+Validation Accuracy: 0.83%
+Epoch [85/100] - Loss: 0.3936
+Validation Loss: 0.4403
+Validation Accuracy: 0.82%
+Epoch [86/100] - Loss: 0.3823
+Validation Loss: 0.4846
+Validation Accuracy: 0.81%
+Epoch [87/100] - Loss: 0.3884
+Validation Loss: 0.4134
+Validation Accuracy: 0.84%
+Epoch [88/100] - Loss: 0.4113
+Validation Loss: 0.4313
+Validation Accuracy: 0.81%
+Epoch [89/100] - Loss: 0.3888
+Validation Loss: 0.4439
+Validation Accuracy: 0.81%
+Epoch [90/100] - Loss: 0.3899
+Validation Loss: 0.4210
+Validation Accuracy: 0.83%
+Epoch [91/100] - Loss: 0.4115
+Validation Loss: 0.4688
+Validation Accuracy: 0.81%
+Epoch [92/100] - Loss: 0.4024
+Validation Loss: 0.4319
+Validation Accuracy: 0.80%
+Epoch [93/100] - Loss: 0.3798
+Validation Loss: 0.4293
+Validation Accuracy: 0.82%
+Epoch [94/100] - Loss: 0.3882
+Validation Loss: 0.4421
+Validation Accuracy: 0.80%
+Epoch [95/100] - Loss: 0.4039
+Validation Loss: 0.4607
+Validation Accuracy: 0.84%
+Epoch [96/100] - Loss: 0.3922
+Validation Loss: 0.4446
+Validation Accuracy: 0.80%
+Epoch [97/100] - Loss: 0.3722
+Validation Loss: 0.4218
+Validation Accuracy: 0.84%
+Epoch [98/100] - Loss: 0.3931
+Validation Loss: 0.4361
+Validation Accuracy: 0.81%
+Epoch [99/100] - Loss: 0.3964
+Validation Loss: 0.4280
+Validation Accuracy: 0.81%
+Epoch [100/100] - Loss: 0.3790
+Validation Loss: 0.4230
+Validation Accuracy: 0.83%
+[TEST]
+{'input': tensor([[ 3.0000,  1.0000, 34.5000,  ...,  2.0000,  0.0000,  1.0000],
+        [ 3.0000,  0.0000, 47.0000,  ...,  3.0000,  1.0000,  0.0000],
+        [ 2.0000,  1.0000, 62.0000,  ...,  2.0000,  0.0000,  1.0000],
+        ...,
+        [ 3.0000,  1.0000, 38.5000,  ...,  2.0000,  0.0000,  1.0000],
+        [ 3.0000,  1.0000, 29.0000,  ...,  2.0000,  0.0000,  1.0000],
+        [ 3.0000,  1.0000,  4.0000,  ...,  0.0000,  2.0000,  0.0000]])}
