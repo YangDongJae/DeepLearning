@@ -1,0 +1,59 @@
+2023-11-10 10:50:54,312 INFO    MainThread:21832 [internal.py:wandb_internal():86] W&B internal server running at pid: 21832, started at: 2023-11-10 10:50:54.311793
+2023-11-10 10:50:54,313 INFO    WriterThread:21832 [datastore.py:open_for_write():85] open: C:\Users\nazero\Desktop\link_dl-main\link_dl-main\_02_homeworks\_03_fashion_mnist\wandb\run-20231110_105053-7701lljc\run-7701lljc.wandb
+2023-11-10 10:50:54,314 DEBUG   SenderThread:21832 [sender.py:send():380] send: header
+2023-11-10 10:50:54,314 DEBUG   SenderThread:21832 [sender.py:send():380] send: run
+2023-11-10 10:50:55,093 INFO    SenderThread:21832 [dir_watcher.py:__init__():211] watching files in: C:\Users\nazero\Desktop\link_dl-main\link_dl-main\_02_homeworks\_03_fashion_mnist\wandb\run-20231110_105053-7701lljc\files
+2023-11-10 10:50:55,095 INFO    SenderThread:21832 [sender.py:_start_run_threads():1124] run started: 7701lljc with start time 1699581053.789995
+2023-11-10 10:50:55,098 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: check_version
+2023-11-10 10:50:55,098 DEBUG   SenderThread:21832 [sender.py:send_request():407] send_request: check_version
+2023-11-10 10:50:55,302 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: run_start
+2023-11-10 10:50:55,314 DEBUG   HandlerThread:21832 [system_info.py:__init__():32] System info init
+2023-11-10 10:50:55,314 DEBUG   HandlerThread:21832 [system_info.py:__init__():47] System info init done
+2023-11-10 10:50:55,314 INFO    HandlerThread:21832 [system_monitor.py:start():194] Starting system monitor
+2023-11-10 10:50:55,314 INFO    SystemMonitor:21832 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2023-11-10 10:50:55,314 INFO    HandlerThread:21832 [system_monitor.py:probe():214] Collecting system info
+2023-11-10 10:50:55,316 INFO    SystemMonitor:21832 [interfaces.py:start():190] Started cpu monitoring
+2023-11-10 10:50:55,317 INFO    SystemMonitor:21832 [interfaces.py:start():190] Started disk monitoring
+2023-11-10 10:50:55,317 INFO    SystemMonitor:21832 [interfaces.py:start():190] Started gpu monitoring
+2023-11-10 10:50:55,317 INFO    SystemMonitor:21832 [interfaces.py:start():190] Started memory monitoring
+2023-11-10 10:50:55,320 INFO    SystemMonitor:21832 [interfaces.py:start():190] Started network monitoring
+2023-11-10 10:50:55,332 DEBUG   HandlerThread:21832 [system_info.py:probe():196] Probing system
+2023-11-10 10:50:55,332 DEBUG   HandlerThread:21832 [system_info.py:probe():244] Probing system done
+2023-11-10 10:50:55,332 DEBUG   HandlerThread:21832 [system_monitor.py:probe():223] {'os': 'Windows-10-10.0.22631-SP0', 'python': '3.11.5', 'heartbeatAt': '2023-11-10T01:50:55.332282', 'startedAt': '2023-11-10T01:50:53.749498', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': 'Desktop/link_dl-main/link_dl-main/_02_homeworks/_03_fashion_mnist/homework_3.ipynb', 'codePathLocal': None, 'root': 'C:\\Users\\nazero', 'host': 'DESKTOP-GTOJ06C', 'username': 'nazero', 'executable': 'C:\\Users\\nazero\\anaconda3\\python.exe', 'cpu_count': 24, 'cpu_count_logical': 32, 'cpu_freq': {'current': 3000.0, 'min': 0.0, 'max': 3000.0}, 'cpu_freq_per_core': [{'current': 3000.0, 'min': 0.0, 'max': 3000.0}], 'disk': {'/': {'total': 475.35644149780273, 'used': 168.89836502075195}}, 'gpu': 'NVIDIA GeForce RTX 4090', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA GeForce RTX 4090', 'memory_total': 25757220864}], 'memory': {'total': 63.761390686035156}}
+2023-11-10 10:50:55,332 INFO    HandlerThread:21832 [system_monitor.py:probe():224] Finished collecting system info
+2023-11-10 10:50:55,332 INFO    HandlerThread:21832 [system_monitor.py:probe():227] Publishing system info
+2023-11-10 10:50:55,332 DEBUG   HandlerThread:21832 [system_info.py:_save_pip():52] Saving list of pip packages installed into the current environment
+2023-11-10 10:50:55,333 DEBUG   HandlerThread:21832 [system_info.py:_save_pip():68] Saving pip packages done
+2023-11-10 10:50:55,333 DEBUG   HandlerThread:21832 [system_info.py:_save_conda():75] Saving list of conda packages installed into the current environment
+2023-11-10 10:50:56,108 INFO    Thread-7  :21832 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\nazero\Desktop\link_dl-main\link_dl-main\_02_homeworks\_03_fashion_mnist\wandb\run-20231110_105053-7701lljc\files\requirements.txt
+2023-11-10 10:50:56,108 INFO    Thread-7  :21832 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\nazero\Desktop\link_dl-main\link_dl-main\_02_homeworks\_03_fashion_mnist\wandb\run-20231110_105053-7701lljc\files\conda-environment.yaml
+2023-11-10 10:51:01,562 DEBUG   HandlerThread:21832 [system_info.py:_save_conda():87] Saving conda packages done
+2023-11-10 10:51:01,563 INFO    HandlerThread:21832 [system_monitor.py:probe():229] Finished publishing system info
+2023-11-10 10:51:01,565 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: status_report
+2023-11-10 10:51:01,565 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: keepalive
+2023-11-10 10:51:01,565 DEBUG   SenderThread:21832 [sender.py:send():380] send: files
+2023-11-10 10:51:01,565 INFO    SenderThread:21832 [sender.py:_save_file():1380] saving file wandb-metadata.json with policy now
+2023-11-10 10:51:01,571 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: stop_status
+2023-11-10 10:51:01,571 DEBUG   SenderThread:21832 [sender.py:send_request():407] send_request: stop_status
+2023-11-10 10:51:01,571 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: internal_messages
+2023-11-10 10:51:01,983 DEBUG   SenderThread:21832 [sender.py:send():380] send: telemetry
+2023-11-10 10:51:02,169 INFO    Thread-7  :21832 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\nazero\Desktop\link_dl-main\link_dl-main\_02_homeworks\_03_fashion_mnist\wandb\run-20231110_105053-7701lljc\files\conda-environment.yaml
+2023-11-10 10:51:02,169 INFO    Thread-7  :21832 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\nazero\Desktop\link_dl-main\link_dl-main\_02_homeworks\_03_fashion_mnist\wandb\run-20231110_105053-7701lljc\files\wandb-metadata.json
+2023-11-10 10:51:02,169 INFO    Thread-7  :21832 [dir_watcher.py:_on_file_created():271] file/dir created: C:\Users\nazero\Desktop\link_dl-main\link_dl-main\_02_homeworks\_03_fashion_mnist\wandb\run-20231110_105053-7701lljc\files\output.log
+2023-11-10 10:51:02,411 INFO    wandb-upload_0:21832 [upload_job.py:push():131] Uploaded file C:\Users\nazero\AppData\Local\Temp\tmp1qbov8nwwandb\2e7jdzw2-wandb-metadata.json
+2023-11-10 10:51:04,190 INFO    Thread-7  :21832 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\nazero\Desktop\link_dl-main\link_dl-main\_02_homeworks\_03_fashion_mnist\wandb\run-20231110_105053-7701lljc\files\output.log
+2023-11-10 10:51:05,011 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: status_report
+2023-11-10 10:51:10,042 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: status_report
+2023-11-10 10:51:15,069 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: status_report
+2023-11-10 10:51:16,565 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: stop_status
+2023-11-10 10:51:16,565 DEBUG   SenderThread:21832 [sender.py:send_request():407] send_request: stop_status
+2023-11-10 10:51:16,581 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: internal_messages
+2023-11-10 10:51:20,843 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: status_report
+2023-11-10 10:51:25,894 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: status_report
+2023-11-10 10:51:26,367 INFO    Thread-7  :21832 [dir_watcher.py:_on_file_modified():288] file/dir modified: C:\Users\nazero\Desktop\link_dl-main\link_dl-main\_02_homeworks\_03_fashion_mnist\wandb\run-20231110_105053-7701lljc\files\config.yaml
+2023-11-10 10:51:31,219 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: status_report
+2023-11-10 10:51:31,583 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: internal_messages
+2023-11-10 10:51:31,583 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: stop_status
+2023-11-10 10:51:31,583 DEBUG   SenderThread:21832 [sender.py:send_request():407] send_request: stop_status
+2023-11-10 10:51:36,886 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: status_report
+2023-11-10 10:51:41,940 DEBUG   HandlerThread:21832 [handler.py:handle_request():146] handle_request: status_report

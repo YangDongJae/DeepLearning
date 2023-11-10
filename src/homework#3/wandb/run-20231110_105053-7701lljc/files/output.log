@@ -1,0 +1,6 @@
+Namespace(wandb=True, batch_size=2048, epochs=10000, learning_rate=0.001, validation_intervals=10, early_stop_patience=1000)
+{'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 10, 'learning_rate': 0.001, 'early_stop_patience': 1000}
+Training on Device cuda:0
+Num Train Samples:  55000
+Num Validation Samples:  5000
+Sample Shape:  torch.Size([1, 28, 28])

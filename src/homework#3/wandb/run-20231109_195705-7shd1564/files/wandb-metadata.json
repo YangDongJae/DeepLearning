@@ -1,0 +1,30 @@
+{
+    "os": "macOS-13.2.1-arm64-arm-64bit",
+    "python": "3.10.12",
+    "heartbeatAt": "2023-11-09T10:57:07.393944",
+    "startedAt": "2023-11-09T10:57:05.595469",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "Sanchezs-MacBook-Pro.local",
+    "username": "yangdongjae",
+    "executable": "/opt/homebrew/anaconda3/envs/link_dl/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 8.32815170288086
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2023-11-10T00:53:50.133629",
+    "startedAt": "2023-11-10T00:53:43.785601",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Desktop/link_dl-main/link_dl-main/_02_homeworks/_03_fashion_mnist/homework_3.ipynb",
+    "codePathLocal": null,
+    "root": "C:\\Users\\nazero",
+    "host": "DESKTOP-GTOJ06C",
+    "username": "nazero",
+    "executable": "C:\\Users\\nazero\\anaconda3\\python.exe",
+    "cpu_count": 24,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 3000.0,
+        "min": 0.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3000.0,
+            "min": 0.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 475.35644149780273,
+            "used": 169.21892929077148
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 63.761390686035156
+    }
+}

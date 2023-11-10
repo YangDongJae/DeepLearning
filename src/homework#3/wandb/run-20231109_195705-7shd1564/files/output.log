@@ -1,0 +1,14 @@
+Namespace(wandb=True, batch_size=1000, epochs=10000, learning_rate=0.001, validation_intervals=10, early_stop_patience=10)
+{'epochs': 10000, 'batch_size': 1000, 'validation_intervals': 10, 'learning_rate': 0.001, 'early_stop_patience': 10}
+Training on Device mps
+Num Train Samples:  55000
+Num Validation Samples:  5000
+Sample Shape:  torch.Size([1, 28, 28])
+Number of Data Loading Workers: 0
+[Epoch   1] T_loss: 2.1945, T_accuracy: 21.3182 | V_loss: 2.0910, V_accuracy: 29.0400 | Early stopping is stated! | T_time: 00:01:21, T_speed: 0.012
+[Epoch  10] T_loss: 1.2622, T_accuracy: 57.5855 | V_loss: 1.2693, V_accuracy: 56.8800 | V_loss decreased ( 2.091 -->  1.269). Saving model... | T_time: 00:11:46, T_speed: 0.014
+[Epoch  20] T_loss: 0.9668, T_accuracy: 66.3873 | V_loss: 0.9725, V_accuracy: 66.0800 | V_loss decreased ( 1.269 -->  0.973). Saving model... | T_time: 00:19:30, T_speed: 0.017
+[Epoch  30] T_loss: 0.8358, T_accuracy: 70.0327 | V_loss: 0.8533, V_accuracy: 68.8600 | V_loss decreased ( 0.973 -->  0.853). Saving model... | T_time: 00:25:52, T_speed: 0.019
+[Epoch  40] T_loss: 0.7616, T_accuracy: 72.7345 | V_loss: 0.7754, V_accuracy: 72.0600 | V_loss decreased ( 0.853 -->  0.775). Saving model... | T_time: 00:33:52, T_speed: 0.020
+[Epoch  50] T_loss: 0.7128, T_accuracy: 74.3818 | V_loss: 0.7320, V_accuracy: 72.9800 | V_loss decreased ( 0.775 -->  0.732). Saving model... | T_time: 00:39:46, T_speed: 0.021
+[Epoch  60] T_loss: 0.6765, T_accuracy: 75.6564 | V_loss: 0.6981, V_accuracy: 75.3200 | V_loss decreased ( 0.732 -->  0.698). Saving model... | T_time: 00:45:35, T_speed: 0.022

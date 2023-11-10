@@ -1,0 +1,19 @@
+Namespace(wandb=True, batch_size=2048, epochs=10000, learning_rate=0.001, validation_intervals=10, early_stop_patience=10)
+{'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 10, 'learning_rate': 0.001, 'early_stop_patience': 10}
+Training on Device cuda:0
+Num Train Samples:  55000
+Num Validation Samples:  5000
+Sample Shape:  torch.Size([1, 28, 28])
+Number of Data Loading Workers: 32
+[Epoch   1] T_loss: 2.2483, T_accuracy: 19.4787 | V_loss: 2.2595, V_accuracy: 22.9492 | Early stopping is stated! | T_time: 00:02:12, T_speed: 0.008
+[Epoch   2] T_loss: 2.0525, T_accuracy: 36.6248 | V_loss: 1.9826, V_accuracy: 41.2354 | Early stopping counter: 1 out of 10 | T_time: 00:04:21, T_speed: 0.008
+[Epoch   3] T_loss: 1.8616, T_accuracy: 45.7520 | V_loss: 1.7710, V_accuracy: 48.8770 | Early stopping counter: 2 out of 10 | T_time: 00:06:31, T_speed: 0.008
+[Epoch   4] T_loss: 1.6752, T_accuracy: 51.2639 | V_loss: 1.5915, V_accuracy: 53.8086 | Early stopping counter: 3 out of 10 | T_time: 00:08:40, T_speed: 0.008
+[Epoch   5] T_loss: 1.5077, T_accuracy: 55.2622 | V_loss: 1.4296, V_accuracy: 57.7881 | Early stopping counter: 4 out of 10 | T_time: 00:10:50, T_speed: 0.008
+[Epoch   6] T_loss: 1.3578, T_accuracy: 59.4313 | V_loss: 1.2858, V_accuracy: 61.5723 | Early stopping counter: 5 out of 10 | T_time: 00:12:59, T_speed: 0.008
+[Epoch   7] T_loss: 1.2272, T_accuracy: 63.0690 | V_loss: 1.1646, V_accuracy: 64.6729 | Early stopping counter: 6 out of 10 | T_time: 00:15:08, T_speed: 0.008
+[Epoch   8] T_loss: 1.1180, T_accuracy: 65.7752 | V_loss: 1.0667, V_accuracy: 67.2607 | Early stopping counter: 7 out of 10 | T_time: 00:17:17, T_speed: 0.008
+[Epoch   9] T_loss: 1.0298, T_accuracy: 67.6946 | V_loss: 0.9875, V_accuracy: 68.7500 | Early stopping counter: 8 out of 10 | T_time: 00:19:26, T_speed: 0.008
+[Epoch  10] T_loss: 0.9589, T_accuracy: 69.1857 | V_loss: 0.9255, V_accuracy: 70.0684 | Early stopping counter: 9 out of 10 | T_time: 00:21:36, T_speed: 0.008
+[Epoch  11] T_loss: 0.9046, T_accuracy: 70.2994 | V_loss: 0.8763, V_accuracy: 70.9717 | Early stopping counter: 10 out of 10 *** TRAIN EARLY STOPPED! *** | T_time: 00:23:45, T_speed: 0.008
+Final training time: 00:23:45
